@@ -30,7 +30,6 @@
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
 凤凰中文,http://83e180.tv.netsite.cc/proxy/1846789161/1846789161.m3u8$订阅源
-凤凰中文,http://83e180.tv.netsite.cc/proxy/1650326537/1650326537.m3u8$订阅源
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,https://stream1.freetv.fun/775da45dedb5d0e2186c592c1a582aabe6893f527089d022ba7104e2471c96cf.ctv
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
